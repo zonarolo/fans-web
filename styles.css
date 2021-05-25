@@ -7,7 +7,7 @@
 html {
   font-size: 15px;
 }
-
+/* header  */
 .fixed-top {
   background: rgba(0, 0, 0, 0.58);
 }
@@ -37,6 +37,49 @@ html {
   max-width: 50px;
 }
 
+/* Aviso-legal */
+.aviso-legal {
+  margin: 6rem;
+}
+
+/* Contacto */
+.contacto {
+  margin: 6rem;
+}
+
+.link {
+  color: #e5ac23;
+}
+
+.link:hover {
+  transform: scale(1.5);
+  color: brown;
+}
+
+/* Tartas */
+
+#tartas .col-4 {
+  margin: 0 !important;
+  padding: 25px;
+}
+
+#tartas img {
+  width: 100%;
+  height: 300px;
+}
+
+/* pedidos online */
+#online img {
+  width: 700px;
+  height: 500px;
+  margin: 0;
+  padding: 0;
+}
+
+#tartas img:hover {
+  border: 5px solid #f7f7f7;
+}
+/* footer */
 .footer {
   background-color: #111111;
   color: white;
