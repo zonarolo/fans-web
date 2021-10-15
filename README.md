@@ -1,3 +1,3 @@
 # fans-web
 
-## Mi nombre es Yomira Blanco
+## Mi nombre es Yomira Blanco, quiero contribuir en tu proyecto.
